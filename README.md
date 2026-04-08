@@ -46,7 +46,7 @@ _Chức năng chính_
 	-	Quản lý người dùng
 	-	Quản lý nhà cung cấp
 
-## Cách chạy project**
+## Cách chạy project
 1. Tạo database MySQL (ví dụ: shopfashionkid)
 2. Import file `database/database.sql`
 3. Cấu hình lại username/password trong `application.properties`
